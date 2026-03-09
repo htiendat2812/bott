@@ -1,0 +1,333 @@
+-----[UNCAUGHT EXCEPTION]-----
+[2025-06-05 12:31:19]
+ReferenceError: Callback is not defined
+    at Object.Success (/home/runner/workspace/f/logger.js:66:50)
+    at /home/runner/workspace/f/Main.js:1262:24
+    at [_onLine] [as _onLine] (node:internal/readline/interface:414:7)
+    at [_line] [as _line] (node:internal/readline/interface:887:18)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1265:22)
+    at ReadStream.onkeypress (node:internal/readline/interface:264:20)
+    at ReadStream.emit (node:events:518:28)
+    at emitKeys (node:internal/readline/utils:371:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+    at ReadStream.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at TTY.onStreamRead (node:internal/stream_base_commons:191:23)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:00]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:00]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:00]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:00]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:01]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:01]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Object.Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:01]
+Error: Cannot find module './../../pdata/data_dongdev/datajson/chill.json'
+Require stack:
+- /home/runner/workspace/modules/commands/globalp.js
+- /home/runner/workspace/main.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/modules/commands/globalp.js:1:12)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at /home/runner/workspace/main.js:366:24
+    at /home/runner/workspace/f/Main.js:1221:17
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:02]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Object.Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:02]
+Error: Tên module bị trùng với một module mang cùng tên khác!
+    at /home/runner/workspace/main.js:368:75
+    at /home/runner/workspace/f/Main.js:1221:17
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+
+-----[COMMAND DEPENDENCY]-----
+[2025-06-05 12:32:02]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Object.Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:02]
+Error: Cannot find module 'tesseract.js'
+Require stack:
+- /home/runner/workspace/modules/commands/text.js
+- /home/runner/workspace/main.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/modules/commands/text.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at /home/runner/workspace/main.js:366:24
+    at /home/runner/workspace/f/Main.js:1221:17
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+
+-----[COMMAND DEPENDENCY]-----
+[2025-06-05 12:32:02]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Object.Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[COMMAND LOAD]-----
+[2025-06-05 12:32:02]
+Error: Tên module bị trùng với một module mang cùng tên khác!
+    at /home/runner/workspace/main.js:368:75
+    at /home/runner/workspace/f/Main.js:1221:17
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+
+-----[COMMAND DEPENDENCY]-----
+[2025-06-05 12:32:02]
+Error: libuuid.so.1: cannot open shared object file: No such file or directory
+    at Object.Module._extensions..node (node:internal/modules/cjs/loader:1586:18)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/bindings.js:3:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/runner/workspace/node_modules/canvas/lib/canvas.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+
+-----[EVENT LOAD]-----
+[2025-06-05 12:32:02]
+Error: Tên module bị trùng với một module mang cùng tên khác!
+    at /home/runner/workspace/main.js:416:72
+    at /home/runner/workspace/f/Main.js:1221:17
+    at tryCatcher (/home/runner/workspace/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+    at Promise._settlePromise (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:673:18)
+    at Promise._resolveCallback (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:466:57)
+    at Promise._settlePromiseFromHandler (/home/runner/workspace/node_modules/bluebird/js/release/promise.js:559:17)
+
+-----[UNHANDLED REJECTION]-----
+[2025-06-05 12:32:03]
+Error: ENOENT: no such file or directory, open '/home/runner/workspace/modules/commands/Trò_chơi/noitu/noitu.txt'
+    at Object.writeFileSync (node:fs:2367:20)
+    at save (/home/runner/workspace/modules/commands/noitu.js:18:19)
+    at Object.exports.onLoad (/home/runner/workspace/modules/commands/noitu.js:25:5)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+
